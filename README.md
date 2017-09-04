@@ -6,3 +6,5 @@ Main files:
 scenes/mustang.mb
 
 movies/mustang.avi
+
+![Screenshot](/screenshot.png)
